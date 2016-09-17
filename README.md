@@ -1,5 +1,7 @@
 # M3 Framework
 
+[![Join the chat at https://gitter.im/M3framework/m3](https://badges.gitter.im/M3framework/m3.svg)](https://gitter.im/M3framework/m3?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **M3** is a PHP framework for fast developing web applications using the MVP design pattern.
 
 M3 doesn't requiere root privileges for installing it, so a M3 application runs smoothly on a shared server like Cpanel. You can even have several M3 applications in separated directories, each one with its own M3 version.
